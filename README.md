@@ -2,6 +2,9 @@ Rapport projet Chuck Norris App / Kotlin:
 
 Membre du groupe : Lu Arnold
 
+NB : Version qui marche sur la branche "version1" du git. 
+	La branche main contient la version avec des améliorations mais qui ne marche pas
+
 Le but de ce projet est de réaliser une application "ChuckNorrisApp" qui a pour but d'afficher des blagues de Chuck Norris sur l'écran de notre téléphone.
 
 Pour cela, nous avons dû utiliser les technologies suivantes :
